@@ -1,0 +1,26 @@
+h1{
+    color:blue;
+} 
+
+*{
+    border:solid;
+}
+
+.Header{
+    border:dotted;
+    background-color:darksalmon;
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.Footer{
+    display:flex;
+    justify-content: flex-end;
+}
+
